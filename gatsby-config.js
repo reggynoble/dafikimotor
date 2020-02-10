@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: "DafikiMotors",
     description:
-      "Quality Pre-owned auto at affordabel prices,
+      "Quality Pre-owned auto at affordabel prices",
     author: "@reggynoble",
     data: {
       name: "Dan and Mike",
