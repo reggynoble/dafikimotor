@@ -15,6 +15,10 @@ module.exports = {
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
+      resolve: `gatsby-plugin-env-variables`,
+      options: {
+        whitelist: ["spaceId", "accessToken"]
+      },
       options: {
         name: `images`,
         path: `${__dirname}/src/images/`,

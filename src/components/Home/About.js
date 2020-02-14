@@ -16,7 +16,7 @@ const About = () => {
           <h4>explore the difference!!!</h4>
           <p>
             Our ACA certified mechanics inspect our cars prior to being delivered to you.
-            Our Mechanics have ove 10 years of experience in servicing both foreign and domestic vehicles?
+            Our Mechanics have over 10 years of experience in servicing both foreign and domestic vehicles?
           </p>
           <p>
             Dafiki Motors prides itself in having the best customer service and only offering you what you need,
