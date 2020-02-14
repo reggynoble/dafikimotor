@@ -5,7 +5,7 @@ export default [
   {
     icon: <FaWallet />,
     title: "Free Inspection",
-    text: "We offer free inspection fro any cars over $5,000 and make sure your car passes inspection before we deliver it to you",
+    text: "We offer free inspection for any cars over $5,000 and make sure your car passes inspection before we deliver it to you",
   },
   {
     icon: <FaTree />,
