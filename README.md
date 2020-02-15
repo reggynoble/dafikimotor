@@ -1,3 +1,3 @@
-git clone...
-cd dafikimotors
+git clone...,
+cd dafikimotors,
 gatsby develop
