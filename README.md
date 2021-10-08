@@ -1,9 +1,9 @@
 ## Project setup
-
-#git clone
 ```
-#cd dafikimotor
+git clone https://github.com/reggynoble/dafikimotor.git
 ```
-
+cd dafikimotor
 ```
-#gatsby develop
+npm install
+```
+gatsby develop
