@@ -2,102 +2,127 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93af8669-836f-45eb-948f-718bff8a7e83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/BackgroundSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/SEO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/SocialIcons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/StyledHero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Globals/article-preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Inventory/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Inventory/Vehicle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Inventory/Vehicles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialIcons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/article-preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/article-preview.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/constants/links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/css/article-preview.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/css/blog-card.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/css/blog.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/css/hero.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/css/main.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/Button.styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/Card.styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/Container.styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/Flex.styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/Footer.styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/Global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/Header.styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/SocialIcons.styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Background2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/boxtruck.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/boxtruck2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/boxtruck3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/boxtruck4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/boxtruck5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gatsby-astronaut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gatsby-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mitsubishi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mitsubitshi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/towtruck1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/towtruck2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/towtruck3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/towtruck5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/towtruck6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/toyota.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/truck4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/electric.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/featured.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/parts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/racing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/reviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/supercars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/using-typescript.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/vintage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/blog-post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/blog-post.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Globals/Banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact/Contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Rankings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Globals/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SimpleHero.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/links.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/social-icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/constants/social-icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/about.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/about.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/banner.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/banner.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/blog.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/contact.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/contact.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/day.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/error.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/error.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/items.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/items.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/services.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/services.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/template.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/tour.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/inventory.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/blogBcg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/blogBcg2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/connectBcg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/connectBcg2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/defaultBcg2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logo1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/inventory.js" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/banner.module.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/contact.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/inventory.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gatsby-config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-612" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Contentful.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.env.development">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/constants/services.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Layout.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,6 +153,7 @@
     <option name="width" value="2049" />
     <option name="height" value="1455" />
   </component>
+  <component name="ProjectId" id="1uGbV5Yr7A0Vm4NRPDuOyqma8Fy" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -196,30 +222,32 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gatsby-backroads-project-master/gatsby-backroads-project-master/gatsby-backroads-project-master" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\rosaragwartech\gatsbyprojects\dafikimotor\node_modules\prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor\src" />
+      <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor\src\components" />
+      <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor\src\components\styles" />
+      <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor" />
       <recent name="C:\reggynoble\dafikimotors\src\components" />
-      <recent name="C:\reggynoble\dafikimotors\src\images" />
-      <recent name="C:\reggynoble\dafikimotors\src\constants" />
-      <recent name="C:\reggynoble\dafikimotors\src\pages" />
-      <recent name="C:\reggynoble\dafikimotors\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -230,6 +258,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581181155770</updated>
+      <workItem from="1624294895620" duration="596000" />
+      <workItem from="1625017104359" duration="617000" />
+      <workItem from="1625060767939" duration="472000" />
+      <workItem from="1625071308494" duration="134000" />
+      <workItem from="1632603350386" duration="18833000" />
+      <workItem from="1632781045679" duration="3269000" />
+      <workItem from="1633110695370" duration="617000" />
+      <workItem from="1633271453663" duration="562000" />
+      <workItem from="1633296419611" duration="5143000" />
     </task>
     <servers />
   </component>
@@ -256,6 +293,21 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/favicon.ico" />
