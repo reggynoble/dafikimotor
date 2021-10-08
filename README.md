@@ -1,3 +1,4 @@
 <h>git clone...,</h>
-cd dafikimotor,
-gatsby develop
+<h>cd dafikimotor,</h>
+<h>npm install</h>
+<h>gatsby develop</h>
