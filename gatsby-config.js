@@ -3,9 +3,9 @@ require("dotenv").config({
 })
 module.exports = {
   siteMetadata: {
-    title: "DafikiMotors",
+    title: "Entire Motors",
     description:
-      "Quality Pre-owned auto at affordabel prices",
+        "Quality Pre-owned auto at affordable prices",
     author: "@reggynoble",
     data: {
       name: "Dan and Mike",
@@ -34,6 +34,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-transformer-remark`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-transition-link`,

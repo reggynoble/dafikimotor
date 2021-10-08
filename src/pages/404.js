@@ -1,18 +1,13 @@
 import React from "react"
-import Layout from "../components/Layout"
-import styles from "../css/error.module.css"
-import { Link } from "gatsby"
-import Banner from "../components/Banner"
-export default function error() {
-  return (
-    <Layout>
-      <header className={styles.error}>
-        <Banner title="oops it's a dead end">
-          <Link to="/" className="btn-white">
-            back to our home page
-          </Link>
-        </Banner>
-      </header>
-    </Layout>
-  )
-}
+
+import Layout from "../components/Layout/layout"
+
+
+const NotFoundPage = () => (
+  <Layout>
+    <h1>NOT FOUND</h1>
+    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+  </Layout>
+)
+
+export default NotFoundPage

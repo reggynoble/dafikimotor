@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Roboto|Varela+Round&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+:root {
+--mainGrey: #f5f5f5;
+--mainWhite: #fff;
+--mainBlack: #3f3f3f;
+--darkGrey: #8e8e8e;
+--bodyColor: #665544;
+}
+html{
+    padding-top: 25px;
+
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: var(--mainGrey);
+    color: var(--bodyColor);
+    width: 80%;
+    padding: 0 20px 20px 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+    background-color: #E1EDEB;
+ }
+
+ .special{
+    color: #FF0000;
+    font-family: "Varela Round", Arial, Helvetica, sans-serif;
+
+ }
+
+ .code {
+    background: #f15025;
+    display: inline-block;
+    padding: 1rem;
+    font-size: 1.2rem;
+    color: var(--mainWhite);
+    margin: 2rem 0;
+ }
+
+ .counter {
+   color: green;
+   margin: 3rem 0;
+   text-transform: capitalize;
+ }
+
+ .btn {
+    border-radius: 5px;
+    font-family: Arial, Helvetica, serif;
+    font-size: .8 em;
+ }
+
+ .delete{
+    background-color: red;
+ }
+
+ .add{
+    background-color:green;
+
+ }
+
+ .edit {
+    background-color: grey;
+
+ }
+
+ #banner {
+    background: #CC0000;
+    height: 300px;
+    width: 720px;
+    text-color: black;
+ }
+
+ h1, h2, h3, h5, h6 { color :#F1CD33;
+    border-bottom: 2px solid rgba(87, 185, 178);
+    padding-top: 10px;
+    padding-bottom: 5px;
+ }
+
+ h1 {
+    font-size:2em;
+
+ }
+
+
+
+ P .intro {color: yellow;}
+
+ img:nth-of-type(odd) {float: left; }
+ img:nth-of-type(even) {float: right;}
+
+ tr:nth-of-type(odd) {background-color: #D9F0FF; }
+ tr:nth-of-type(even) {background-color: #FFFFFF; }
+
+ #signupForm {
+    display: none;
+ }
+
+ #signupForm:target {
+    display: block;
+ }
+
+ p {
+    color: rgba(255,25,255,.9);
+    font-size:1em;
+ }
+
+ #logo{
+    font-family: Baskerville, sans-serif;
+    font-size: 2em;
+    color: rgba(255,255,255,.8);
+    text-align: center;
+    margin-bottom:30px;
+    background-color: rgb(191,91,116);
+    border-radius: 0 0 10px 10px;
+    padding: 10px;
+    }
+
+ .note{
+    color: black;
+    border: 2px solid white;
+    background-color: rgb(69,189,102);
+    margin-top: 25px;
+    margin-bottom: 35px;
+    padding: 20px;
+ }
+
+ .note strong {
+    color: #FC6512;
+ }
+
+ article{
+    max-width: 760px;
+    margin: 0 auto;
+ }
+
+h1+p {
+    color: rgb(255,255,255);
+    font-size: 1.2em;
+    line-height: 140%;
+
+}
+
+.sidebar1{
+    width: 20%;
+    float: left;
+    margin:10px;
+    background-color:rgb(252,101,18);
+    padding: 10px 20px;
+    border: 1px dotted rgb(252,101,18);
+    border-top: 20px solid rgb(20px solid rgb(252,101,18));
+    box-shadow: 5px 5px 10px rgb(0,0,0,.5);
+
+}
+
+.sidebar2{
+    float:right;
+    width:20%;
+    padding: 0 10px 0 10px;
+
+ }
+
+.nav li {display: inline; }
+
+.nav a {
+    display: block;
+    width: 12em;
+    border: 3px solid rgb(204,204,204);
+    border-bottom: none;
+    border-radius: 5px 5px 0 0;
+    padding: 10px;
+    margin-right: 5px;
+    background-color: rgb(95,95,95);
+    background-image: -webkit-linear-gradient(175,175,175), rgb(95,95,95));
+    background-image: -moz-linear-gradient(175,175,175), rgb(95,95,95));
+    background-image: -o-linear-gradient(175,175,175), rgb(95,95,95));
+    background-image: linear-gradient(175,175,175), rgb(95,95,95));
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.main{
+   float: right;
+   width: 60%;
+   padding: 0 20px 0 20px;
+}
+
+footer {
+clear: both;
+}
+
