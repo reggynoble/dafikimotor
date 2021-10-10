@@ -1,4 +1,4 @@
-import React from "react";'
+import React from "react";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout/Layout"
 import Banner from "../components/Globals/Banner"
@@ -37,7 +37,7 @@ export const query = graphql`
       }
     }
   }
-`;
+`
 
 export default ({ data }) => (
   <Layout>
