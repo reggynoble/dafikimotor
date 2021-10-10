@@ -6,7 +6,7 @@ import BackgroundSection from "./Globals/BackgroundSection";
 import Footer from "./Globals/Footer";
 import "./layout.css";
 import "./bootstrap.min.css";
-import Header from "./Globals/header"
+import Header from "./Globals/Header"
 const Layout = ({ children }) => (
     <>
         <Navbar />
