@@ -1,12 +1,8 @@
 import React from "react";
 import get from 'lodash/get'
 import { Link, graphql } from "gatsby";
-
-
-import Layout from "../components/Layout/Layout"
+import Layout from '../components/Layout/Layout'
 import App from "../components/Home/App"
-import Header from "../components/Globals/Header"
-import services from "../components/Globals/Services";
 import Info from "../components/Home/Info";
 import ArticlePreview from '../components/article-preview'
 
@@ -16,8 +12,6 @@ class RootIndex extends React.Component {
   const posts = get(this, 'props.data.allContentfulBlogPost.edges')
   return (
      <Layout>
-     <services />
-         <Header />
       <Info />
       <App />
       <div className="container">

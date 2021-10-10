@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 import { Helmet } from 'react-helmet'
 import get from 'lodash/get'
 import Img from 'gatsby-image'
-import Layout from '../components/Layout/layout'
+import Layout from '../components/Layout/Layout'
 
 
 import * as heroStyles from '../components/css/hero.module.css'
