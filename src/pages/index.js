@@ -5,7 +5,7 @@ import { Link, graphql } from "gatsby";
 
 import Layout from "../components/Layout/Layout"
 import App from "../components/Home/App"
-import Header from "../components/Home/Header"
+import Header from "../components/Globals/Header"
 import services from "../components/Globals/Services";
 import Info from "../components/Home/Info";
 import ArticlePreview from '../components/article-preview'
@@ -19,7 +19,6 @@ class RootIndex extends React.Component {
      <services />
          <Header />
       <Info />
-
       <App />
       <div className="container">
         <h2 className="section-headline">Recent articles</h2>
