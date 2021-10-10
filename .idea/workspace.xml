@@ -2,122 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93af8669-836f-45eb-948f-718bff8a7e83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/BackgroundSection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/SEO.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/Services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/SocialIcons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/StyledHero.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Globals/article-preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Inventory/Menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Inventory/Vehicle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Inventory/Vehicles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SocialIcons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/article-preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/article-preview.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constants/links.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/article-preview.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/blog-card.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/blog.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/hero.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/main.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/styles/Button.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/styles/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/styles/Card.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/styles/Container.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/styles/Flex.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/styles/Footer.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/styles/Global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/styles/Header.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/styles/SocialIcons.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Background2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/boxtruck.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/boxtruck2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/boxtruck3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/boxtruck4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/boxtruck5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gatsby-astronaut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gatsby-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/mitsubishi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/mitsubitshi2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/towtruck1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/towtruck2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/towtruck3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/towtruck5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/towtruck6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/toyota.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/truck4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/electric.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/featured.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/news.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/parts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/racing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/reviews.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/supercars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/using-typescript.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/vintage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/blog-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/blog-post.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Globals/Banner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact/Contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Rankings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Services.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Globals/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SimpleHero.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Title.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/links.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/services.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/social-icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/constants/social-icons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/about.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/about.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/banner.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/banner.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/blog.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/contact.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/contact.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/day.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/error.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/error.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/items.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/items.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/navbar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/services.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/services.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/template.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/tour.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/inventory.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/blog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/blogBcg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/blogBcg2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/connectBcg.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/connectBcg2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/defaultBcg2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/featured.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/featured.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/inventory.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,6 +122,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\rosaragwartech\gatsbyprojects\dafikimotor\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -267,6 +157,8 @@
       <workItem from="1633110695370" duration="617000" />
       <workItem from="1633271453663" duration="562000" />
       <workItem from="1633296419611" duration="5143000" />
+      <workItem from="1633742777704" duration="502000" />
+      <workItem from="1633823395776" duration="1430000" />
     </task>
     <servers />
   </component>

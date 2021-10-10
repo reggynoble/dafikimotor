@@ -1,10 +1,6 @@
 import React, { Component } from "react"
 import Layout from "../components/Layout/Layout"
-import StyledHero from "../components/Globals/StyledHero"
-import Seo from "../components/GLobals/seo";
 import Contact from "../components/Home/Contact"
-
-import Menu from "../components/Inventory/Menu"
 import { graphql } from "gatsby"
 
 

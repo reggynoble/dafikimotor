@@ -5,7 +5,6 @@ import StyledHero from "../Globals/StyledHero";
 import BackgroundSection from "../Globals/BackgroundSection";
 import Footer from "../Globals/Footer";
 import "./layout.css";
-import Header from "../Globals/header"
 const Layout = ({ children }) => (
   <>
     <Navbar />
