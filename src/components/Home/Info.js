@@ -3,7 +3,7 @@ import Title from "../Globals/Title";
 import { Link } from "gatsby";
 export default function Info() {
   return (
-    <section className="py-5">
+
       <div className="container">
         <Title title="AutoMotive Reviews, News, Parts, Accessories & More" />
         <div className="row">
@@ -11,7 +11,7 @@ export default function Info() {
             <p className="lead text-muted mb-5">
               From "Land-to-sea" AutoMotive lifestyle
             </p>
-            <Link to="/Rankings/">
+            <Link to="/rankings/">
               <button className="btn text-uppercase btn-yellow">
                 Latest Performance Rankings by Category
               </button>
@@ -19,6 +19,6 @@ export default function Info() {
           </div>
         </div>
       </div>
-    </section>
+
   );
 }
