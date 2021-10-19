@@ -13,7 +13,7 @@ const content = [
   },
   {
     id: 3,
-    title: 'Your Users',
+    title: 'Check out our reviews',
     body: "We have researched and tested all the products we feature",
     image: 'illustration-your-users.svg',
   },
