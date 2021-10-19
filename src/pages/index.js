@@ -12,7 +12,6 @@ class RootIndex extends React.Component {
   const posts = get(this, 'props.data.allContentfulBlogPost.edges')
   return (
      <Layout>
-      <Info />
       <App />
       <div className="container">
         <h2 className="section-headline">Recent articles</h2>
