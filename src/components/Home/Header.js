@@ -28,7 +28,7 @@ export default function Header() {
             <h1>AutoMotive Reviews, News, Parts, Accessories & More</h1>
 
             <p>
-              Dafikimotors is a place for Auto Lovers. We have done thorough research on all the products we feature.
+              Dafikimotors.com is a place for Auto Lovers. We have done thorough research on all the products we feature.
               We give you all the information you need before you buy
             </p>
 
