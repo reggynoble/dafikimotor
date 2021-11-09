@@ -1,7 +1,7 @@
 import React from "react"
 import { ThemeProvider } from 'styled-components'
 import Header from './Header'
-import Footer from './HomeFooter'
+import HomeFooter from './HomeFooter'
 import Card from '../styles/Card'
 import { Container } from '../styles/Container.styled'
 import GlobalStyles from '../styles/Global'
@@ -27,7 +27,6 @@ function App() {
             <Card key={index} item={item} />
           ))}
         </Container>
-
       </>
     </ThemeProvider>
   )

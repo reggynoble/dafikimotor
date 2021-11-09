@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93af8669-836f-45eb-948f-718bff8a7e83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Globals/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Globals/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/css/navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/navbar.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +119,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Home" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react/code" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\rosaragwartech\gatsbyprojects\dafikimotor\node_modules\prettier" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -160,7 +165,18 @@
       <workItem from="1633834512998" duration="4367000" />
       <workItem from="1634316403597" duration="4112000" />
       <workItem from="1634396304802" duration="1294000" />
-      <workItem from="1634505387480" duration="7850000" />
+      <workItem from="1634505387480" duration="11677000" />
+      <workItem from="1634818467224" duration="1802000" />
+      <workItem from="1634852784873" duration="5666000" />
+      <workItem from="1635025895160" duration="3914000" />
+      <workItem from="1635206468286" duration="322000" />
+      <workItem from="1635364549281" duration="43000" />
+      <workItem from="1635389011390" duration="1708000" />
+      <workItem from="1635452138342" duration="861000" />
+      <workItem from="1635545214696" duration="1211000" />
+      <workItem from="1635880767468" duration="4422000" />
+      <workItem from="1636149487969" duration="1108000" />
+      <workItem from="1636477045649" duration="1916000" />
     </task>
     <servers />
   </component>
