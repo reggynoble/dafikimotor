@@ -33,7 +33,7 @@ export default function Header() {
             </p>
 
             <Button bg='#ff0099' color='#fff'>
-              Blog
+              Pats & Accessories
             </Button>
           </div>
 

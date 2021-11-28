@@ -9,22 +9,18 @@ export default [
   },
   {
     path: "/reviews",
-    text: "supercars",
+    text: "reviews",
   },
   {
     path: "/electric",
-    text: "electric vehicles",
+    text: "electric" ,
   },
   {
-    path: "/supercars",
-    text: "drones",
+    path: "/vintage",
+    text: "vintage",
   },
   {
-  path: "/vintage",
-  text: "bikes",
-},
-  {
-    path: "/contact",
-    text: "contact",
+    path: "/about",
+    text: "About",
   },
 ]

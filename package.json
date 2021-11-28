@@ -10,6 +10,7 @@
     "gatsby": "^3.13.0",
     "gatsby-background-image": "^1.5.3",
     "gatsby-image": "^3.11.0",
+    "gatsby-plugin-algolia": "^0.24.0",
     "gatsby-plugin-env-variables": "^2.1.0",
     "gatsby-plugin-image": "^1.13.0",
     "gatsby-plugin-manifest": "^3.13.0",

@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93af8669-836f-45eb-948f-718bff8a7e83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Globals/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Globals/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/css/navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/navbar.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +115,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react/code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react/delete-childecomps" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -176,7 +172,11 @@
       <workItem from="1635545214696" duration="1211000" />
       <workItem from="1635880767468" duration="4422000" />
       <workItem from="1636149487969" duration="1108000" />
-      <workItem from="1636477045649" duration="1916000" />
+      <workItem from="1636477045649" duration="4302000" />
+      <workItem from="1636577745105" duration="1344000" />
+      <workItem from="1636783418716" duration="5369000" />
+      <workItem from="1637096668068" duration="2048000" />
+      <workItem from="1637590500265" duration="2418000" />
     </task>
     <servers />
   </component>

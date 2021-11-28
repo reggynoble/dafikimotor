@@ -14,7 +14,7 @@ class RootIndex extends React.Component {
      <Layout>
       <App />
       <div className="container">
-        <h2 className="section-headline">Recent articles</h2>
+        <h2 className="section-headline">Recent Articles</h2>
         <ul className="article-list">
           {posts.map(({ node }) => {
             return (
