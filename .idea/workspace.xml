@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="93af8669-836f-45eb-948f-718bff8a7e83" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/constants/links.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/constants/links.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +117,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react/delete-childecomps" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -125,11 +127,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor\public" />
       <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor\src\components\Home" />
       <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor\src" />
       <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor\src\components" />
       <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor\src\components\styles" />
-      <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\rosaragwartech\gatsbyprojects\dafikimotor" />
@@ -177,6 +179,9 @@
       <workItem from="1636783418716" duration="5369000" />
       <workItem from="1637096668068" duration="2048000" />
       <workItem from="1637590500265" duration="2418000" />
+      <workItem from="1638220355449" duration="7295000" />
+      <workItem from="1638427992037" duration="950000" />
+      <workItem from="1638731809360" duration="4955000" />
     </task>
     <servers />
   </component>

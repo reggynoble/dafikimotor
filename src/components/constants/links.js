@@ -16,8 +16,8 @@ export default [
     text: "electric" ,
   },
   {
-    path: "/vintage",
-    text: "vintage",
+    path: "/hybrid",
+    text: "hybrid",
   },
   {
     path: "/about",
